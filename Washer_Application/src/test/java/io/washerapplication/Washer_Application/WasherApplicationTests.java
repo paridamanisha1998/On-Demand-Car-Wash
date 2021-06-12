@@ -8,7 +8,7 @@ class WasherApplicationTests {
 
 	@Test
 	void contextLoads() {
-		
+
 	}
 
 }
